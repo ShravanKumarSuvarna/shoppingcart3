@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+  }
+  .navbar 
+{
+    background-color:#ca2727;
+    padding: 1rem;
+
+}
+
+.topnav-right
+{
+size: 10px;
+}
+.topnav-right 
+{
+    float: right;
+
+}
+.column 
+{
+        float: left;
+        height: 650px;
+        width: 50%;
+        background-color: white;
+        padding: 10px;
+        border-image-width: 5px;
+       
+      }
+.title{
+    text-decoration: none;
+    color:whitesmoke;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 5px   rgb(43, 19, 199);
+    
+} 
+.Shopping_Product{
+    
+    text-align: center;
+    
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px rgb(208, 252, 10);
+   
+    padding-bottom: 2rem;
+} 
+.card {
+   
+    width: 100%;
+  }
+  
+
